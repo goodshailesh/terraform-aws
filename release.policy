@@ -1,0 +1,3 @@
+path "aws/creds/release-role" {
+	capabilities	= ["create", "read", "update", "delete", "list"]
+}

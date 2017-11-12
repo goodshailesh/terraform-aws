@@ -1,0 +1,12 @@
+access_key		= "AXXXXXXXXXXXXXXXxxxA"
+secret_key		= "qXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXJ"
+region			= "us-west-2"
+vpc_name		= "VPC"
+vpc_cidr		= "10.0.0.0/16"
+availability_zone	= "us-west-2a"
+count			= 1
+allowed_cidr_ssh	= ""
+ami			= "ami-0a00ce72"
+instance_type		= "t2.micro"
+public_key_path		= "~/.ssh/id_rsa.pub"
+private_key_path	= "~/.ssh/id_rsa"
